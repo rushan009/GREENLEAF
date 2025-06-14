@@ -14,8 +14,8 @@ header{
     display: flex;
     justify-content: space-between;
     align-items: center;
-    margin:0px 2rem;
-    padding: 20px 10px;
+    margin:0px 1rem;
+    padding: 20px 0px;
 }
 
 .navigation>nav>li{
